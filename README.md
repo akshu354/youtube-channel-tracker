@@ -47,12 +47,13 @@ This project automates data extraction, storage, and visualization to provide ac
 
 1. Clone the repository
 2. Install dependencies
-```pip install -r requirements.txt
-
+```
+pip install -r requirements.txt
 ```
 4. Add your YouTube API key to the script  
 5. Run the Python scripts:
-```python src/api.py
+```
+python src/api.py
 python src/data_fetching.py
 ```
 5. Check the generated CSV in `data/`  

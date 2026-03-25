@@ -47,11 +47,13 @@ This project automates data extraction, storage, and visualization to provide ac
 
 1. Clone the repository
 2. Install dependencies
-pip install -r requirements.txt
-3. Add your YouTube API key to the script  
-4. Run the Python scripts:
-python src/api.py
+```pip install -r requirements.txt
+```
+4. Add your YouTube API key to the script  
+5. Run the Python scripts:
+```python src/api.py
 python src/data_fetching.py
+```
 5. Check the generated CSV in `data/`  
 6. Import schema from `database/schema.sql` into MySQL  
 7. Open Power BI dashboard from `dashboard/pw_visuals.pbix`

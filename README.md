@@ -2,6 +2,11 @@
 
 This project is an end-to-end data analytics pipeline that extracts, processes, and visualizes the Physics Wallah YouTube channel data using Python, MySQL, and Power BI
 
+## Problem Statement
+
+Analyzing YouTube channel performance manually is inefficient and time-consuming.  
+This project automates data extraction, storage, and visualization to provide actionable insights into video performance, engagement trends, and publishing patterns.
+
 ## Dashboard Preview
 
 [![Dashboard](dashboard/dashboard.png)](dashboard/pw_visuals.pbix)
@@ -13,6 +18,13 @@ This project is an end-to-end data analytics pipeline that extracts, processes, 
 - Stored structured data in a MySQL database
 - Designed an interactive Power BI dashboard
 - Analyzed video performance, trends, and engagement metrics
+
+## Results
+
+- Processed 1600+ videos dataset
+- Analyzed 3B+ total views and 90M+ likes
+- Identified high-performing content patterns
+- Built an interactive dashboard with filters and KPIs
 
 ## Tech Stack
 
@@ -42,13 +54,12 @@ This project is an end-to-end data analytics pipeline that extracts, processes, 
 ## How to Run
 
 1. Clone the repository
-2. Navigate to the project folder
-3. Install dependencies
-4. Add your YouTube API key to the script
-5. Run the Python scripts from 'src/' (api.py -> data_fetching.py)
-6. Check the generated CSV in 'data/'
-7. Import schema from `database/schema.sql` into MySQL
-8. Open Power BI dashboard from `dashboard/pw_visuals.pbix`
+2. Install dependencies: pip install -r requirements.txt
+3. Add your YouTube API key to the script
+4. Run the Python scripts: python src/api.py -> python src/data_fetching.py 
+5. Check the generated CSV in 'data/'
+6. Import schema from `database/schema.sql` into MySQL
+7. Open Power BI dashboard from `dashboard/pw_visuals.pbix`
 
 ## Future Improvements
 

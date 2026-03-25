@@ -4,7 +4,7 @@ This project is an end-to-end data analytics pipeline that extracts, processes, 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/279fd761-20a1-4776-88b5-35deafab154d" />
 
 ## Project Highlights
 

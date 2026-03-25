@@ -1,4 +1,4 @@
-# Youtube Channel Tracker(Pyhics Wallah Analytics)
+# Youtube Channel Tracker(Phyics Wallah Analytics)
 
 This project is an end-to-end data analytics pipeline that extracts, processes, and visualizes the Physics Wallah YouTube channel data using Python, MySQL, and Power BI
 

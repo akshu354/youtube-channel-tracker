@@ -1,4 +1,4 @@
-# YouTube Channel Analytics Pipeline(Physics Wallah)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0d432c07-c618-4313-9892-27dda9df9931" /># YouTube Channel Analytics Pipeline(Physics Wallah)
 
 - Built an end-to-end data pipeline to analyze 1600+ YouTube videos  
 - Automated data extraction, storage, and visualization  
@@ -73,3 +73,4 @@ python src/data_fetching.py
 
 Akshat Jain  
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization | ETL Pipelines
+LinkedIn: https://www.linkedin.com/in/akshat-jain-934098250

@@ -1,6 +1,8 @@
 # YouTube Channel Analytics Pipeline(Physics Wallah)
 
-Built an end-to-end data pipeline to analyze 1600+ YouTube videos, automating data extraction, storage, and visualization to generate actionable insights on engagement and publishing trends.
+- Built an end-to-end data pipeline to analyze 1600+ YouTube videos  
+- Automated data extraction, storage, and visualization  
+- Generated actionable insights on engagement & publishing trends  
 
 ## Dashboard Preview
 
@@ -32,7 +34,7 @@ This project automates data extraction, storage, and visualization to provide ac
 - 'dashboard/' -> Power BI dashboard
 - 'database/' -> MySQL schema file
 
-## Workflow
+## Architecture
 
 - YouTube API -> Python Scripts -> MySQL Database -> CSV -> Power BI dashboard
 

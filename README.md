@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0d432c07-c618-4313-9892-27dda9df9931" /># YouTube Channel Analytics Pipeline(Physics Wallah)
+# YouTube Channel Analytics Pipeline(Physics Wallah)
 
 - Built an end-to-end data pipeline to analyze 1600+ YouTube videos  
 - Automated data extraction, storage, and visualization  

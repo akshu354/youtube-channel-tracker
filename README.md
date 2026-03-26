@@ -73,4 +73,5 @@ python src/data_fetching.py
 
 Akshat Jain  
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization | ETL Pipelines
+
 LinkedIn: https://www.linkedin.com/in/akshat-jain-934098250

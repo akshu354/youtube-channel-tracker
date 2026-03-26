@@ -1,4 +1,4 @@
-# YouTube Channel Analytics Pipeline(Physics Wallah Case Study)
+# YouTube Channel Analytics Pipeline(Physics Wallah)
 
 Built an end-to-end data pipeline to analyze 1600+ YouTube videos, automating data extraction, storage, and visualization to generate actionable insights on engagement and publishing trends.
 

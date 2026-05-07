@@ -52,8 +52,8 @@ This project automates data extraction, storage, and visualization to provide ac
 ```
 pip install -r requirements.txt
 ```
-4. Add your YouTube API key to the script  
-5. Run the Python scripts:
+3. Add your YouTube API key to the script  
+4. Run the Python scripts:
 ```
 python src/api.py
 python src/data_fetching.py
